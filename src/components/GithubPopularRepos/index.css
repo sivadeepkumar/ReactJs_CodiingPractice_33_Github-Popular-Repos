@@ -1,0 +1,30 @@
+.main-container {
+  height: 100vh;
+}
+
+.headLobster {
+  text-align: center;
+  font-size: 38px;
+  font-family: 'Lobster';
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+  list-style-type: none;
+}
+.center-aligin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.failure-img {
+  width: 1300px;
+  height: 750px;
+}
+.failure-header {
+  text-align: center;
+  font-size: 38px;
+  color: black;
+}
